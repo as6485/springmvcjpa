@@ -1,0 +1,5 @@
+org\ayan\springmvcjpa\web\model\Book.class
+org\ayan\springmvcjpa\web\controller\HelloController.class
+org\ayan\springmvcjpa\web\repo\BookRepo.class
+org\ayan\springmvcjpa\web\MVCJPAApp.class
+org\ayan\springmvcjpa\web\service\BookService.class
